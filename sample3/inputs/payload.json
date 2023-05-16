@@ -1,0 +1,12 @@
+{
+  "productVariantOptions": [
+    {
+      "optionValue": {
+        "Silver": 1,
+        "Blue": 2,
+        "Green": 0
+      },
+      "optionId": "x_lensColor"
+    }
+  ]
+}
